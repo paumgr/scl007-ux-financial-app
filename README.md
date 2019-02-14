@@ -7,8 +7,7 @@ mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
 el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
 equipo detrás de este nuevo producto ha decidido contratar a una
 agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
-de UX y son asignadas al proyecto.
+producto. Tu eres empleada de esa agencia/consultora te asignan el proyecto.
 
 ## Introducción
 
@@ -38,7 +37,7 @@ Manager del equipo les brinda el contexto:
   alrededor de 6 meses de data. Hoy estamos en el proceso de entender los
   resultados iniciales y de sacar una segunda iteración del producto. Y para eso
   las hemos contratado. Toda la documentación de este producto la tenemos en una
-  carpeta de [Google Drive](http://bit.ly/uxd-reto-2). Les doy acceso.
+  carpeta de [Google Drive](http://bit.ly/uxd-reto-2). Te doy acceso.
   
 > Necesitamos traer una propuesta del nuevo diseño en dos semanas porque tenemos
   que presentarla a nuestro Gerente General en la reunión trimestral. Es
@@ -53,7 +52,7 @@ Manager del equipo les brinda el contexto:
 ### Recursos
 
 En esta carpeta de [Google Drive](http://bit.ly/uxd-reto-2) y en los siguientes
-links, encontrarán:
+links, encontrarás:
 
 - Los user persona primario y secundario del proyecto
 - Los user flows iniciales y actuales del proyecto del MVP
