@@ -163,10 +163,8 @@ Para el hacker edition puedes elegir una o varias de estas opciones:
 - En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
   tu propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-  utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y
-  JS. Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene
-  que ser mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+- Adapta el diseño del app para iPhone X/XS/XR.
+- Diseña un app para Apple Watch que complemente tu propuesta.
 - Escribe un post en Medium contando tu proceso de investigación.
 - Crea un video mostrando el demo del app, aquí algunos ejemplos:
   - [Genius Scan](https://youtu.be/wKqnB6_Z-J0)
