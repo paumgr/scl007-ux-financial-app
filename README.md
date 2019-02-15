@@ -99,8 +99,7 @@ necesitas averiguar para completar tu proyecto. De esta manera, tu planificació
 es muy relevante para comprender la problemática.
 
 Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
+elementos debes investigar. Te aconsejamos que consideres tiempo para poder iterar sobre las
 posibilidades de mejora y también para preparar la presentación.
 
 La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
