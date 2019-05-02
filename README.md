@@ -34,11 +34,11 @@ Para comenzr a entender el problema y comenzar a trabajar nos proporcionaron la 
 
 #### Problemas encontrados y análisis de datos:
  
-![leadingpage](leadingpage.png)
-Según los datos analizados, en el leading page podemos ver que hubo un crecimiento de visitas de un 74% duranto los 6 meses de lanzamiento del producto pero esto no se ve reflejado en los graficos de app store, instalaciones y sing ups
+![ladingpage](ladingpage.png)
+Según los datos analizados, en el lading page podemos ver que hubo un crecimiento de visitas de un 74% duranto los 6 meses de lanzamiento del producto pero esto no se ve reflejado en los graficos de app store, instalaciones y sing ups
 
 ![appstore](finanzas.png) 
-Las visitas a la app store se ven reflejadas con un 12,4 % con respecto al laading page, mientras que el 12,8% instala la app una ves vista en el app store, y a su vez solo el 8,4% hace sings up en la app.
+Las visitas a la app store se ven reflejadas con un 12,4 % con respecto al lading page, mientras que el 12,8% instala la app una ves vista en el app store, y a su vez solo el 8,4% hace sings up en la app.
 
 Tambien podemos ver que las personas se interesaron mucho más en revisar sus gastos que sus ahorros, ya dentro dde la app
 
@@ -51,7 +51,7 @@ Además podemos ver que 89% de los usuarios adroid se interesaron en la app v/s 
 
 ##### Conclusión:
 
-Alguno de los problemas visualizados se encuentra en el leading page la cual no aclara que la aplicación es solo para dispositivos IOS.
+Alguno de los problemas visualizados se encuentra en el lading page la cual no aclara que la aplicación es solo para dispositivos IOS.
 
 La mayor cantidad de usuarios que se interesó en la aplicación son usuarios Android por lo que una de las recomendaciones de rediseño será ampliar el alcance y que llegue a todos los usuarios.
 
